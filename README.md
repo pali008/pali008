@@ -12,16 +12,18 @@ I am an ardent fan of all sophisticated hardwares as well as the programs that d
 
 
 ## Examples of Work
-<img src="https://github.com/pali008/pali008/blob/master/spring.png" width="256"/>
+<img src="https://github.com/pali008/pali008/blob/master/spring.png" width="256"/> <img src="https://github.com/pali008/pali008/blob/master/Grapnel.png" width="256"/>
 
-<img src="https://github.com/pali008/pali008/blob/master/Grapnel.png" width="256"/>
+
 
 <img src="https://github.com/pali008/pali008/blob/master/gpayuiclone.png" width="256"/>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pali008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paliyath-s-aju-468447202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_hungry_futurist/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pali008.github.io/portfolio.github.io/ )  
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pali008)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pali008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paliyath-s-aju-468447202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_hungry_futurist/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pali008.github.io/portfolio.github.io/ )  
