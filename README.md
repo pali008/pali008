@@ -3,7 +3,13 @@
 I'm Paliyath from India.
 I am an ardent fan of all sophisticated hardwares as well as the programs that drives them. I enjoy coding and like to develop applications that could possibly make an impact on the society.
 
-Skills:   REACT / JS / HTML / CSS / Java / Python / AI-ML
+## Skills and Experience
+
+* ⚛ React
+* 📱 Flutter
+* 💻 React, html, css
+
+
 
 - 🔭 I’m currently working on Machine Learning projects 
 - 🌱 I’m currently learning Flutter 
