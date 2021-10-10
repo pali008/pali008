@@ -8,9 +8,15 @@ I am an ardent fan of all sophisticated hardwares as well as the programs that d
 * ⚛ React
 * 📱 Flutter
 * 💻 React, html, css
+* 📲 Java / xml 
 
 
+## Examples of Work
+<img src="https://github.com/pali008/pali008/blob/master/spring.png" width="256"/>
 
+<img src="https://github.com/pali008/pali008/blob/master/Grapnel.png" width="256"/>
+
+<img src="https://github.com/pali008/pali008/blob/master/gpayuiclone.png" width="256"/>
 
 
 
