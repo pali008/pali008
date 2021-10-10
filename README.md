@@ -12,15 +12,7 @@ I am an ardent fan of all sophisticated hardwares as well as the programs that d
 
 
 ## Examples of Work
-<img src="https://github.com/pali008/pali008/blob/master/spring.png" width="256"/> <img src="https://github.com/pali008/pali008/blob/master/Grapnel.png" width="256"/>
-
-
-
-<img src="https://github.com/pali008/pali008/blob/master/gpayuiclone.png" width="256"/>
-
-
-
-
+<img src="https://github.com/pali008/pali008/blob/master/spring.png" width="260"/> <img src="https://github.com/pali008/pali008/blob/master/Grapnel.png" width="260"/> <img src="https://github.com/pali008/pali008/blob/master/gpayuiclone.png" width="260"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pali008)](https://github.com/anuraghazra/github-readme-stats)
