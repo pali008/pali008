@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Paliyath from India.
-I am an ardent fan of all sophisticated hardwares as well as the programs that drives them. I enjoy coding and like to develop applications that could possibly make an impact on the society.
+I am an ardent fan of all sophisticated hardwares as well as the programs that drives them. I enjoy coding and like to develop applications that could make a positive impact on the society.
 
 ## Skills and Experience
 
